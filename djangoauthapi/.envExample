@@ -1,0 +1,4 @@
+# Optional SMTP authentication information for EMAIL_HOST.
+EMAIL_USER = 'suyashk95@gmail.com'
+EMAIL_PASS = 'wznfwlbjwnwnbcmm'
+EMAIL_FROM = 'suyashk95@gmail.com'
